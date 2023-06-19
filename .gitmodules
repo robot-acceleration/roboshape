@@ -1,0 +1,6 @@
+[submodule "roboshape-codegen"]
+	path = roboshape-codegen
+	url = git@github.com:robot-acceleration/roboshape-codegen.git
+[submodule "rbd-accelerator-harness"]
+	path = rbd-accelerator-harness
+	url = git@github.com:robot-acceleration/rbd-accelerator-harness.git
